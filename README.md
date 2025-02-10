@@ -1,5 +1,5 @@
 # ISP-Worker REST API CRUD Application
-This repository contains a Worker REST API CRUD application developed using PHP and Laravel, purposed to be served through Docker. The application was developed as part of the onboarding process with the leading internet service provider in Azerbaijan. The API allows you to perform CRUD operations (Create, Read, Update, Delete) on worker entities.
+This repository contains a Worker REST API CRUD application developed using PHP and Laravel, purposed to be served through Docker. The application was developed as part of an onboarding process with the leading internet service provider in Azerbaijan. This does not include the project undertaken with collaboration with AzEduNet. The API allows you to perform CRUD operations (Create, Read, Update, Delete) on worker entities.
 
 ## API Documentation
 
